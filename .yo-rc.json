@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "hapi-demo",
+    "style": "css",
+    "postcss": true
+  }
+}
